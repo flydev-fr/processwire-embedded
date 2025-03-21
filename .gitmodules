@@ -1,0 +1,6 @@
+[submodule "submodules/mORMot2"]
+	path = submodules/mORMot2
+	url = git@github.com:synopse/mORMot2.git
+[submodule "submodules/processwire"]
+	path = submodules/processwire
+	url = git@github.com:processwire/processwire.git
